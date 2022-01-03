@@ -1,6 +1,6 @@
  # Viktor Burkov
  ### Contacts
-- **Location**: Minsk, Belarus
+- **Location**: Minsk city, Belarus
 - **Email**: [qaz.qwerty@myrambler.ru](qaz.qwerty@myrambler.ru)
 - **Github**: ViktOr-byte
 
